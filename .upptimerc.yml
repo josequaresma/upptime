@@ -1,5 +1,5 @@
 # Change these first
-owner: upptime # Your GitHub username
+owner: josequaresma # Your GitHub username
 repo: upptime # Your GitHub repository name
 
 # Add your sites here
@@ -10,13 +10,9 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
   - name: Test for HEAD
     method: HEAD
     url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
   - name: DR
     url: https://www.dr.dk
 
@@ -27,8 +23,8 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Testing **Upptime**, an open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: This is a sample status page which uses **real-time** data from my [GitHub repository](https://github.com/josequaresma/upptime), which is a copy of [Upptime GitHub repo](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
