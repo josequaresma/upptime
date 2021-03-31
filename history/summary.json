@@ -5,20 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.93%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 77,
-    "timeDay": 109,
-    "timeWeek": 86,
+    "timeDay": 79,
+    "timeWeek": 88,
     "timeMonth": 79,
     "timeYear": 77,
-    "dailyMinutesDown": {
-      "2021-03-15": 197,
-      "2021-01-21": 44
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
@@ -26,20 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.93%",
-    "time": 122,
-    "timeDay": 255,
-    "timeWeek": 198,
-    "timeMonth": 127,
-    "timeYear": 122,
-    "dailyMinutesDown": {
-      "2021-03-15": 197,
-      "2021-01-21": 44
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 123,
+    "timeDay": 168,
+    "timeWeek": 209,
+    "timeMonth": 128,
+    "timeYear": 123,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
@@ -52,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.94%",
-    "time": 410,
-    "timeDay": 346,
-    "timeWeek": 416,
-    "timeMonth": 411,
-    "timeYear": 410,
+    "time": 408,
+    "timeDay": 262,
+    "timeWeek": 399,
+    "timeMonth": 406,
+    "timeYear": 408,
     "dailyMinutesDown": {
       "2021-03-15": 197
     }
@@ -67,20 +61,17 @@
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "test-for-head",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.81%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 19,
-    "timeDay": 39,
-    "timeWeek": 31,
+    "timeDay": 32,
+    "timeWeek": 34,
     "timeMonth": 23,
     "timeYear": 19,
-    "dailyMinutesDown": {
-      "2021-03-15": 197,
-      "2021-01-21": 44
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DR",
@@ -88,19 +79,16 @@
     "icon": "https://favicons.githubusercontent.com/www.dr.dk",
     "slug": "dr",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.75%",
-    "time": 564,
-    "timeDay": 355,
-    "timeWeek": 416,
-    "timeMonth": 670,
-    "timeYear": 564,
-    "dailyMinutesDown": {
-      "2021-03-15": 197,
-      "2021-01-21": 44
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 560,
+    "timeDay": 302,
+    "timeWeek": 403,
+    "timeMonth": 658,
+    "timeYear": 560,
+    "dailyMinutesDown": {}
   }
 ]
